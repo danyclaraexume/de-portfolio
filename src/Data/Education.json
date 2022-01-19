@@ -1,0 +1,28 @@
+{
+    "schools": [
+        {
+            "schoolName":"Université Laval",
+            "status":"In progress",
+            "yearDate":"Since 2021",
+            "programName":"Computer Science",
+            "degree":"Bachelor Degree",
+            "place":"Montreal QC"
+        },
+        {            
+            "schoolName":"UQAM",
+            "status":"Transferred",
+            "yearDate":"2019-2021",
+            "programName":"Computer Science",
+            "degree":"Classes",
+            "place":"Montreal QC"
+        },
+        {
+            "schoolName":"Institut Teccart",
+            "status":"Completed",
+            "yearDate":"20217-20218",
+            "programName":"Computer Science",
+            "degree":"College Degree",
+            "place":"Montreal QC"
+        }        
+    ]
+}

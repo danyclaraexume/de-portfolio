@@ -1,0 +1,24 @@
+{
+    "personal": {
+        "firstName": "Dany",
+        "lastName": "Exumé",
+        "adress": "6-2885 Rue David Longueuil J4L 3S7",
+        "phoneNo":"5145737634",
+        "emailAdress": "danyexume@gmail.com",
+        "linkedIn":"https://www.linkedin.com/in/dany-exum%C3%A9-647064174/",
+        "github":"https://github.com/danyclaraexume",
+        "cv":""
+    },
+
+    "langages": [
+        {"langage":"French", "level":"First Language", "icon":"fr-icon.png"},
+        {"langage":"English", "level":"Fluent", "icon":"en-icon.png"}
+    ],
+
+    "softSkills":["Problem-Solving","Analytic thinking","Autonomus","Good team spirit","Curiosity"],
+
+
+    "aboutMe":"Hi, My name is Dany and I am a Computer Science student with 2 years experience in web development and 3 years experience in SQL and software Development.",
+    "myFavQuote":"A UI is like a joke. If you have to explain it, it's not good.",
+    "hobbies":"Reading, Guitar"
+}

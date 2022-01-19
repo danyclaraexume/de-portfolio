@@ -1,0 +1,24 @@
+{
+    "workExperience": [
+        {
+            "compagnyName":"Morneau Shepell (Lifeworks)",
+            "place":"Montreal QC",
+            "workDate":"Since 2019",
+            "functionTitle":"Senior Analyst Development Support",
+            "functionStack":[
+                "SQL Script development with SQL Server",
+                "Database conception and configuration",
+                "Source code re-factoring maintenance in C, C++, and VBScript",
+                "SSRS reports development",
+                "Data extract tools development with C#"
+            ]
+        },
+        {
+            "compagnyName":"IOS - Call Center",
+            "place":"Montreal QC",
+            "workDate":"2016-2017",
+            "functionTitle":"Customer Care Representative",
+            "functionStack":["Customer Care Representative – Fido Client Account Management"]
+        }
+    ]
+}

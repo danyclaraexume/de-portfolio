@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "title":"Cryptocurrency tracker",
+            "name":"CRYPTO-GANG",
+            "realisationDate":"September 2021 - January 2022",
+            "description":"Cryptocurrency portfolio manager. Allow the user to track the crypto market, to have a watchlist and a representation of his wallet. It also allow the user to use a calculator to simulate future profits or loss.",
+            "githublink":"https://github.com/danyclaraexume/CryptoGang",
+            "stack": "React JS, React-Bootstrap, Axios, React-Router-Dom"
+        },
+        {
+            "title":"Student Planner",
+            "name":"E-STUDY",
+            "realisationDate":"July 2020 - July 2022",
+            "description":"Student planning organizer allowing user to have all the information about his cursus in the same place (schedule, program, grades, notes, classes, assignements and evaluations.",
+            "githublink":"https://github.com/danyclaraexume/Student-planner-webApp-MERN",
+            "stack": "React JS, Material UI, Rest API, MySQL, MVC"
+        },
+        {
+            "title":"Personal Budget",
+            "name":"E-BUDGET",
+            "realisationDate":"January 2022 - December 2022",
+            "description":"Personal budget web app inspired by YNAB with graph and reports.",
+            "githublink":"https://github.com/danyclaraexume/TodoList-App-ReactJS",
+            "stack": "React JS, Material UI,GraphQL, Mongo DB, Atoms, Redux"
+        }
+    ]
+}
