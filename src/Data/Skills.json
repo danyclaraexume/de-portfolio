@@ -78,12 +78,7 @@
                 {
                     "skill":"VB",
                     "icon":"vb-icon.png"
-                }
-            ]
-        },
-        {
-            "field":"Tests",
-            "skillset":[
+                },
                 {
                     "skill":"Unit testing",
                     "icon":"unittest-icon.ico"
@@ -95,7 +90,7 @@
             ]
         },
         {
-            "field":"Version Control Tools",
+            "field":"Others",
             "skillset":[
                 {
                     "skill":"GIT",
@@ -104,12 +99,7 @@
                 {
                     "skill":"Microsoft TFS",
                     "icon":"tfs-icon.png"
-                }
-            ]
-        },
-        {
-            "field":"Others",
-            "skillset":[
+                },
                 {
                     "skill":"React Native",
                     "icon":"reactnative-icon.png"
