@@ -34,9 +34,9 @@ function App() {
           <Col className='mainContent'>
             <Profile profileData={ProfileData} id='home' />
             <Skills />
+            <Work />
             <Project />
             <Education />
-            <Work />
           </Col>
         </Row>
         <Row>        
