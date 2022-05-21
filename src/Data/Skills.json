@@ -26,6 +26,10 @@
             "field":"Web Development",
             "skillset":[
                 {
+                    "skill":"REST API",
+                    "icon":"rest-icon.png"
+                },
+                {
                     "skill":"Spring Framework",
                     "icon":"spring-icon.png"
                 },
