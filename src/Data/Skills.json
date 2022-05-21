@@ -26,6 +26,18 @@
             "field":"Web Development - Front-End",
             "skillset":[
                 {
+                    "skill":"Spring Framework",
+                    "icon":"spring-icon.png"
+                },
+                {
+                    "skill":"Spring Boot",
+                    "icon":"spring-boot-icon.png"
+                },
+                {
+                    "skill":"Hibernate",
+                    "icon":"hibernate-icon.png"
+                },
+                {
                     "skill":"HTML 5",
                     "icon":"html-icon.png"
                 }, 
@@ -64,13 +76,14 @@
             "field":"Object Oriented Programming",
             "skillset":[
                 {
-                    "skill":"C#",
-                    "icon":"csharp-icon.png"
-                },
-                {
                     "skill":"Java",
                     "icon":"java-icon.png"
                 },
+                {
+                    "skill":"C#",
+                    "icon":"csharp-icon.png"
+                },
+                
                 {
                     "skill":"C++",
                     "icon":"cplusplus-icon.png"
