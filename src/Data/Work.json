@@ -1,15 +1,27 @@
 {
     "workExperience": [
         {
+            "compagnyName":"GFT",
+            "place":"Quebec QC",
+            "workDate":"2022-2023",
+            "functionTitle":"Software Developer",
+            "functionStack":[
+                "Guidewire development: Policy Center, Claim Center ( Gosu, Data Models and GW entities)",
+                "J-Unit Testing, QA Tests automation",
+                "AWS servers, Microsoft Workspaces, sourceTree, Github",
+                "Jira, Confluence, Safe mode agile, Scrum"
+            ]
+        },
+        {
             "compagnyName":"Morneau Shepell (Lifeworks)",
             "place":"Montreal QC",
-            "workDate":"Since 2019",
+            "workDate":"2019-2022",
             "functionTitle":"Senior Analyst Development Support",
             "functionStack":[
-                "SQL Script development with SQL Server",
-                "Database conception and configuration",
+                "SQL Script development with SQL Server and SSRS reports development",
+                "Database creation, configuration, and management",
                 "Source code re-factoring maintenance in C, C++, and VBScript",
-                "SSRS reports development",
+                "Source code re-factoring and maintenance in C, C++, and VBScript",
                 "Data extract tools development with C#"
             ]
         },
@@ -18,7 +30,7 @@
             "place":"Montreal QC",
             "workDate":"2016-2017",
             "functionTitle":"Customer Care Representative",
-            "functionStack":["Customer Care Representative – Fido Client Account Management"]
+            "functionStack":["Customer Care Representative – Fido Clients Account Management"]
         }
     ]
 }

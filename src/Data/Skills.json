@@ -1,6 +1,50 @@
 {
     "technicalSkills":[
         {
+            "field":"Web Development",
+            "skillset":[
+                {
+                    "skill":"REST API",
+                    "icon":"rest-icon.png"
+                },
+                {
+                    "skill":"Node JS",
+                    "icon":"nodejs-icon.png"
+                },
+                {
+                    "skill":"React JS",
+                    "icon":"reactjs-icon.png"
+                },
+                {
+                    "skill":"TypeScript",
+                    "icon":"typescript-icon.png"
+                },
+                {
+                    "skill":"React-Bootstrap",
+                    "icon":"bootstrap-icon.png"
+                },
+                {
+                    "skill":"Material UI",
+                    "icon":"materialui-icon.png"
+                },
+                {
+                    "skill":"HTML 5",
+                    "icon":"html-icon.png"
+                }, 
+                {
+                    "skill":"CSS",
+                    "icon":"css-icon.png"
+                },
+                
+                {
+                    "skill":"Vanilla JavaScript",
+                    "icon":"js-icon.png"
+                }
+                
+                
+            ]
+        },
+        {
             "field":"Database",
             "skillset":[
                 {
@@ -23,60 +67,6 @@
             ]
         },
         {
-            "field":"Web Development",
-            "skillset":[
-                {
-                    "skill":"REST API",
-                    "icon":"rest-icon.png"
-                },
-                {
-                    "skill":"Spring Framework",
-                    "icon":"spring-icon.png"
-                },
-                {
-                    "skill":"Spring Boot",
-                    "icon":"spring-boot-icon.png"
-                },
-                {
-                    "skill":"Hibernate",
-                    "icon":"hibernate-icon.png"
-                },
-                {
-                    "skill":"HTML 5",
-                    "icon":"html-icon.png"
-                }, 
-                {
-                    "skill":"CSS",
-                    "icon":"css-icon.png"
-                },
-                
-                {
-                    "skill":"React-Bootstrap",
-                    "icon":"bootstrap-icon.png"
-                },
-                {
-                    "skill":"Material UI",
-                    "icon":"materialui-icon.png"
-                },
-                {
-                    "skill":"JavaScript",
-                    "icon":"js-icon.png"
-                },
-                {
-                    "skill":"React JS",
-                    "icon":"reactjs-icon.png"
-                },
-                {
-                    "skill":"TypeScript",
-                    "icon":"typescript-icon.png"
-                },
-                {
-                    "skill":"Node JS",
-                    "icon":"nodejs-icon.png"
-                }
-            ]
-        },
-        {
             "field":"Object Oriented Programming",
             "skillset":[
                 {
@@ -91,10 +81,19 @@
                 {
                     "skill":"C++",
                     "icon":"cplusplus-icon.png"
+                }
+            ]
+        },
+        {
+            "field":"Others",
+            "skillset":[
+                {
+                    "skill":"iOS Swift",
+                    "icon":"reactnative-icon.png"
                 },
                 {
-                    "skill":"VB",
-                    "icon":"vb-icon.png"
+                    "skill":"GIT",
+                    "icon":"git-icon.png"
                 },
                 {
                     "skill":"Unit testing",
@@ -103,27 +102,6 @@
                 {
                     "skill":"Integration Testing",
                     "icon":"integrationtest-icon.png"
-                }
-            ]
-        },
-        {
-            "field":"Others",
-            "skillset":[
-                {
-                    "skill":"GIT",
-                    "icon":"git-icon.png"
-                },
-                {
-                    "skill":"Microsoft TFS",
-                    "icon":"tfs-icon.png"
-                },
-                {
-                    "skill":"React Native",
-                    "icon":"reactnative-icon.png"
-                },
-                {
-                    "skill":"RESTful API",
-                    "icon":"restapi-icon.png"
                 }
             ]
         }       

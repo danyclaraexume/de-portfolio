@@ -1,9 +1,17 @@
 {
     "projects": [
         {
-            "title":"Cryptocurrency tracker",
+            "title":"Online Shop",
+            "name":"Ortho-Bien-Etre",
+            "realisationDate":"Autumn 2023",
+            "description":"Orthopedic E-commerce allowing user to buy, search and save product. Also allow admin to manage products, promotion and other admin profile.",
+            "githublink":"https://github.com/danyclaraexume/CryptoGang",
+            "stack": "Node JS, Express JS, Mongo DB, Mongoose, React JS, React-Bootstrap, Axios, React-Router-Dom"
+        },
+        {
+            "title":"Cryptocurrency Tracker",
             "name":"CRYPTO-GANG",
-            "realisationDate":"September 2021 - January 2022",
+            "realisationDate":"January 2022",
             "description":"Cryptocurrency portfolio manager. Allow the user to track the crypto market, to have a watchlist and a representation of his wallet. It also allow the user to use a calculator to simulate future profits or loss.",
             "githublink":"https://github.com/danyclaraexume/CryptoGang",
             "stack": "React JS, React-Bootstrap, Axios, React-Router-Dom"
@@ -11,18 +19,10 @@
         {
             "title":"Student Planner",
             "name":"E-STUDY",
-            "realisationDate":"July 2020 - July 2022",
+            "realisationDate":"2021",
             "description":"Student planning organizer allowing user to have all the information about his cursus in the same place (schedule, program, grades, notes, classes, assignements and evaluations.",
             "githublink":"https://github.com/danyclaraexume/Student-planner-webApp-MERN",
             "stack": "React JS, Material UI, Rest API, MySQL, MVC"
-        },
-        {
-            "title":"Personal Budget",
-            "name":"E-BUDGET",
-            "realisationDate":"January 2022 - December 2022",
-            "description":"Personal budget web app inspired by YNAB with graph and reports.",
-            "githublink":"https://github.com/danyclaraexume/TodoList-App-ReactJS",
-            "stack": "React JS, Material UI,GraphQL, Mongo DB, Atoms, Redux"
         }
     ]
 }

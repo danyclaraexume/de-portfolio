@@ -40,7 +40,7 @@ function App() {
           </Col>
         </Row>
         <Row>        
-          <p className='hobbies'> Dany Exumé - 2022</p>
+          <p className='hobbies'> Dany Exumé - 2023</p>
         </Row>
       </Container>      
     </Container>

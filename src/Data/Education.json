@@ -3,17 +3,17 @@
         {
             "schoolName":"Université Laval",
             "status":"In progress",
-            "yearDate":"Since 2021",
+            "yearDate":"2021-2024",
             "programName":"Computer Science",
-            "degree":"Bachelor Degree",
+            "degree":"Bachelor's Degree",
             "place":"Montreal QC"
         },
         {            
             "schoolName":"UQAM",
-            "status":"Transferred",
-            "yearDate":"2019-2021",
+            "status":"Completed",
+            "yearDate":"2023",
             "programName":"Computer Science",
-            "degree":"Classes",
+            "degree":"Certificate",
             "place":"Montreal QC"
         },
         {
